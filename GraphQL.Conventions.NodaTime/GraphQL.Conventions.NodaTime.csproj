@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>David Thibault</Authors>
+    <Description>Very simple package that maps NodaTime's types to their graph type implementations provided by GraphQL.NodaTime.</Description>
+    <RepositoryUrl>https://github.com/leddt/GraphQL.Conventions.NodaTime</RepositoryUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageTags />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GraphQL.Conventions" Version="2.3.0" />
+    <PackageReference Include="GraphQL.NodaTime" Version="0.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

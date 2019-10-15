@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL.Conventions.NodaTime", "GraphQL.Conventions.NodaTime\GraphQL.Conventions.NodaTime.csproj", "{2928F3B2-A2B3-4E55-B8D1-EC3A2106A5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2928F3B2-A2B3-4E55-B8D1-EC3A2106A5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2928F3B2-A2B3-4E55-B8D1-EC3A2106A5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2928F3B2-A2B3-4E55-B8D1-EC3A2106A5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2928F3B2-A2B3-4E55-B8D1-EC3A2106A5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DD241DB-2B09-41CA-872B-866E710D8EC7}
+	EndGlobalSection
+EndGlobal
