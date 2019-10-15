@@ -7,6 +7,7 @@
     <RepositoryUrl>https://github.com/leddt/GraphQL.Conventions.NodaTime</RepositoryUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageTags />
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
